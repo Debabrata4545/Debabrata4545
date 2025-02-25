@@ -9,13 +9,12 @@
 
 - 👯 I’m looking to collaborate on 
 
-- 👨‍💻 All of my projects are available at [Portfolio](www.udaysharmaweb.xyz)
+- 👨‍💻 All of my projects are available .
 
 - 💬 Ask me about **MERN, Web Development And Web Designing(UI/UX)**
 
 - 📫 How to reach me **hmmdan00@gmail.com**
 
-- ⚡ Fun fact **I'm a vlogger with 63k subscribers on YouTube!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
