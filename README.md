@@ -1,20 +1,20 @@
 ![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 ![Profile views](https://profile-counter.glitch.me/udaysharmadev/count.svg?start=5000)
-<h1 align="center">Hi 👋, I'm Uday Sharma</h1>
+<h1 align="center">Hi 👋, I'm Debabrat Dan</h1>
 <h3 align="center">A Passionate MERN Stack Developer From India</h3>
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/19db51af5f90f1b152bc0b9078f5fe97053955be5074f03f17019c70345bdcdb/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
-- 🔭 I’m currently working on [Edusavvy](https://github.com/udaysharmadev/Edusavvy)
+- 🔭 I’m currently working on students.
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👯 I’m looking to collaborate on [Agri Connect](https://github.com/udaysharmadev/Agri-Connect)
+- 👯 I’m looking to collaborate on 
 
 - 👨‍💻 All of my projects are available at [Portfolio](www.udaysharmaweb.xyz)
 
 - 💬 Ask me about **MERN, Web Development And Web Designing(UI/UX)**
 
-- 📫 How to reach me **udaysharmaaaaa@gmail.com**
+- 📫 How to reach me **hmmdan00@gmail.com**
 
 - ⚡ Fun fact **I'm a vlogger with 63k subscribers on YouTube!**
 
