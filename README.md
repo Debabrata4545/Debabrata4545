@@ -2,7 +2,7 @@
 ![Profile views](https://profile-counter.glitch.me/Debabrata4545/count.svg?start=5000)
 <h1 align="center">Hi 👋, I'm Debabrat Dan</h1>
 <h3 align="center">A Passionate MERN Stack Developer From India</h3>
-<img align="right" alt="coding" width="400" 
+/<img align="right" alt="coding" width="400"/
 - 🔭 I’m currently working on students.
 
 - 🌱 I’m currently learning **MERN Stack**
